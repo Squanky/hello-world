@@ -1,2 +1,3 @@
 # hello-world
-my new repository
+
+This is a text which is trying to be descriptive of what it is. 
